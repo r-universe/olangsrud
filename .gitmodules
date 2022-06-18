@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ffmanova"]
+	path = ffmanova
+	url = https://github.com/olangsrud/ffmanova
+	shallow = true
+	registered = true
+[submodule "RegSDC"]
+	path = RegSDC
+	url = https://github.com/olangsrud/regsdc
+	shallow = true
+	registered = true

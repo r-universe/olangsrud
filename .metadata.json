@@ -1,10 +1,10 @@
 [
   {
-    "package": "RegSDC",
+    "package": "ffmanova",
     "oncran": true
   },
   {
-    "package": "ffmanova",
+    "package": "RegSDC",
     "oncran": true
   }
 ]
